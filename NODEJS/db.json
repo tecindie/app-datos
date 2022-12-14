@@ -1,0 +1,19 @@
+{
+    "usuario":[
+        {
+            "id" :1,
+            "apellido_paterno" : "miranda",
+            "apellido_materno" : "cruz",
+            "nombre" : "antony",
+            "username" : "antony-miranda",
+            "password" : "dcf79d2095866b1dd20e4723cc2825b6"
+        }, {
+            "id" :2,
+            "apellido_paterno" : "miranda",
+            "apellido_materno" : "cruz",
+            "nombre" : "julio",
+            "username" : "julio-miranda",
+            "password" : "c9a1cd5ec2f53f4ca464bbf491f34646"
+        }
+    ]
+}
